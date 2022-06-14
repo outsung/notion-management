@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "pages/api/auth/**/*.ts": {
+      "maxDuration": 10
+    }
+  }
+}
